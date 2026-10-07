@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "platform": "offscreen",
+  "monitors": [
+    {
+      "outcome": "made",
+      "cycles": 2,
+      "shots": 2,
+      "shot_laps": [
+        3,
+        3
+      ],
+      "states": [
+        "ball_in_flight",
+        "idle",
+        "pickup_ball",
+        "reaction_success",
+        "return_to_start",
+        "shoot_prep",
+        "shoot_release",
+        "shot_made",
+        "turn_at_hoop",
+        "turn_at_start",
+        "walk_back",
+        "walk_to_ball",
+        "walk_to_hoop"
+      ]
+    },
+    {
+      "outcome": "miss",
+      "cycles": 2,
+      "shots": 2,
+      "shot_laps": [
+        3,
+        3
+      ],
+      "states": [
+        "ball_bouncing",
+        "ball_in_flight",
+        "idle",
+        "pickup_ball",
+        "reaction_miss",
+        "return_to_start",
+        "shoot_prep",
+        "shoot_release",
+        "turn_at_hoop",
+        "turn_at_start",
+        "walk_back",
+        "walk_to_ball",
+        "walk_to_hoop"
+      ]
+    }
+  ]
+}

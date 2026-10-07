@@ -1,0 +1,16 @@
+{
+  "canvas": [
+    150,
+    230
+  ],
+  "floor_anchor": [
+    75,
+    230
+  ],
+  "rim_center": [
+    48,
+    73
+  ],
+  "rim_radius": 20,
+  "backboard_x": 95
+}

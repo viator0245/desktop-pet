@@ -1,0 +1,856 @@
+{
+  "canvas": [
+    256,
+    256
+  ],
+  "default_foot_anchor": [
+    128,
+    256
+  ],
+  "default_hand_anchor": [
+    177,
+    159
+  ],
+  "frames": {
+    "idle/01.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/02.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/03.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/04.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/05.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/06.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/07.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/08.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/09.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/10.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/11.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "idle/12.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/01.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/02.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/03.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/04.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/05.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/06.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/07.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/08.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/09.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/10.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/11.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "walk_dribble/12.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "shoot_prep/01.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177.0,
+        159.0
+      ]
+    },
+    "shoot_prep/02.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        176.8181818181818,
+        153.1818181818182
+      ]
+    },
+    "shoot_prep/03.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        176.63636363636363,
+        147.36363636363637
+      ]
+    },
+    "shoot_prep/04.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        176.45454545454547,
+        141.54545454545456
+      ]
+    },
+    "shoot_prep/05.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        176.27272727272728,
+        135.72727272727272
+      ]
+    },
+    "shoot_prep/06.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        176.0909090909091,
+        129.9090909090909
+      ]
+    },
+    "shoot_prep/07.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        175.9090909090909,
+        124.0909090909091
+      ]
+    },
+    "shoot_prep/08.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        175.72727272727272,
+        118.27272727272728
+      ]
+    },
+    "shoot_prep/09.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        175.54545454545453,
+        112.45454545454545
+      ]
+    },
+    "shoot_prep/10.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        175.36363636363637,
+        106.63636363636363
+      ]
+    },
+    "shoot_prep/11.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        175.1818181818182,
+        100.81818181818181
+      ]
+    },
+    "shoot_prep/12.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        175.0,
+        95.0
+      ]
+    },
+    "shoot_release/01.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        175.0,
+        95.0
+      ]
+    },
+    "shoot_release/02.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        175.9090909090909,
+        90.18181818181819
+      ]
+    },
+    "shoot_release/03.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        176.8181818181818,
+        85.36363636363636
+      ]
+    },
+    "shoot_release/04.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177.72727272727272,
+        80.54545454545455
+      ]
+    },
+    "shoot_release/05.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        178.63636363636363,
+        75.72727272727272
+      ]
+    },
+    "shoot_release/06.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        179.54545454545453,
+        70.9090909090909
+      ]
+    },
+    "shoot_release/07.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        180.45454545454547,
+        66.0909090909091
+      ]
+    },
+    "shoot_release/08.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        181.36363636363637,
+        61.27272727272727
+      ]
+    },
+    "shoot_release/09.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        182.27272727272728,
+        56.45454545454545
+      ]
+    },
+    "shoot_release/10.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        183.1818181818182,
+        51.63636363636363
+      ]
+    },
+    "shoot_release/11.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        184.0909090909091,
+        46.81818181818182
+      ]
+    },
+    "shoot_release/12.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        185.0,
+        42.0
+      ]
+    },
+    "reaction_success/01.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/02.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/03.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/04.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/05.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/06.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/07.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/08.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/09.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/10.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/11.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_success/12.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/01.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/02.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/03.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/04.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/05.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/06.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/07.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/08.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/09.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/10.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/11.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "reaction_miss/12.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        159
+      ]
+    },
+    "pickup_ball/01.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        160.0
+      ]
+    },
+    "pickup_ball/02.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        183.10206966099724
+      ]
+    },
+    "pickup_ball/03.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        204.332547031359
+      ]
+    },
+    "pickup_ball/04.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        221.9714650970492
+      ]
+    },
+    "pickup_ball/05.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        234.5898236190705
+      ]
+    },
+    "pickup_ball/06.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        241.16535823423646
+      ]
+    },
+    "pickup_ball/07.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        241.1653582342365
+      ]
+    },
+    "pickup_ball/08.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        234.5898236190705
+      ]
+    },
+    "pickup_ball/09.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        221.9714650970492
+      ]
+    },
+    "pickup_ball/10.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        204.33254703135898
+      ]
+    },
+    "pickup_ball/11.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        183.10206966099727
+      ]
+    },
+    "pickup_ball/12.png": {
+      "foot_anchor": [
+        128,
+        256
+      ],
+      "hand_anchor": [
+        177,
+        160.0
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "scale": 1.0,
+  "move_speed": 80,
+  "fps": 30,
+  "patrol_width": 700,
+  "animation_speed": 1.0,
+  "shot_make_probability": 0.5,
+  "laps_before_shot": 3,
+  "reaction_duration": 1.2,
+  "always_on_top": true,
+  "sprite_canvas": [256, 256],
+  "sprite_display_height": 144,
+  "sprite_fps": 10,
+  "sprite_foot_anchor": [128, 256],
+  "safe_margin": 24
+}
