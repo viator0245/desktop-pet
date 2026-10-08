@@ -47,7 +47,8 @@ def draw_placeholder(p, state, phase):
     p.drawPath(path)
     p.setPen(QPen(QColor("white"), 3))
     p.drawLine(QPointF(119, 139+bend), QPointF(119, 168+bend))
-    p.drawLine(QPointF(135, 139+bend), QPointF(135, 168+bend))
+    p.setBrush(Qt.BrushStyle.NoBrush)
+    p.drawRoundedRect(QRectF(130, 139+bend, 15, 29), 5, 5)
     p.setPen(QPen(ink, 4, Qt.PenStyle.SolidLine, Qt.PenCapStyle.RoundCap))
     # Arms: prep, extension, follow-through, fist pump and low pickup.
     hx, hy = hand_anchor(state, phase)
